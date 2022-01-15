@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://fsanea.github.io/huddle-landing-page-with-single-introductory-section-master_by-HTML-CSS/)
 
 ## My process
 
